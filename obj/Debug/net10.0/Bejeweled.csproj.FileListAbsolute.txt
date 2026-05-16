@@ -1,0 +1,15 @@
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\bin\Debug\net10.0\Bejeweled.exe
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\bin\Debug\net10.0\Bejeweled.deps.json
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\bin\Debug\net10.0\Bejeweled.runtimeconfig.json
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\bin\Debug\net10.0\Bejeweled.dll
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\bin\Debug\net10.0\Bejeweled.pdb
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.AssemblyInfoInputs.cache
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.AssemblyInfo.cs
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.csproj.CoreCompileInputs.cache
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.sourcelink.json
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.dll
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\refint\Bejeweled.dll
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.pdb
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\Bejeweled.genruntimeconfig.cache
+C:\Users\crism\OneDrive\Attachments\Escritorio\CSC350H\Bejeweled\obj\Debug\net10.0\ref\Bejeweled.dll
